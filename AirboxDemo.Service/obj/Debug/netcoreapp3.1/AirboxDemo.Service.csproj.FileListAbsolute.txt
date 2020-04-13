@@ -1,0 +1,5 @@
+C:\Users\joepa.000\Documents\AirboxDemo\AirboxDemo.Service\bin\Debug\netcoreapp3.1\AirboxDemo.Service.deps.json
+C:\Users\joepa.000\Documents\AirboxDemo\AirboxDemo.Service\bin\Debug\netcoreapp3.1\AirboxDemo.Service.dll
+C:\Users\joepa.000\Documents\AirboxDemo\AirboxDemo.Service\obj\Debug\netcoreapp3.1\AirboxDemo.Service.csprojAssemblyReference.cache
+C:\Users\joepa.000\Documents\AirboxDemo\AirboxDemo.Service\obj\Debug\netcoreapp3.1\AirboxDemo.Service.AssemblyInfoInputs.cache
+C:\Users\joepa.000\Documents\AirboxDemo\AirboxDemo.Service\obj\Debug\netcoreapp3.1\AirboxDemo.Service.AssemblyInfo.cs

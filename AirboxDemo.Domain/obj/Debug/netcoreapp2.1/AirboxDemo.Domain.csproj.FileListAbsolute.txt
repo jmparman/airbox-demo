@@ -1,0 +1,8 @@
+C:\Users\joepa.000\Documents\AirboxDemo\AirboxDemo.Domain\bin\Debug\netcoreapp2.1\AirboxDemo.Domain.deps.json
+C:\Users\joepa.000\Documents\AirboxDemo\AirboxDemo.Domain\bin\Debug\netcoreapp2.1\AirboxDemo.Domain.dll
+C:\Users\joepa.000\Documents\AirboxDemo\AirboxDemo.Domain\bin\Debug\netcoreapp2.1\AirboxDemo.Domain.pdb
+C:\Users\joepa.000\Documents\AirboxDemo\AirboxDemo.Domain\obj\Debug\netcoreapp2.1\AirboxDemo.Domain.AssemblyInfoInputs.cache
+C:\Users\joepa.000\Documents\AirboxDemo\AirboxDemo.Domain\obj\Debug\netcoreapp2.1\AirboxDemo.Domain.AssemblyInfo.cs
+C:\Users\joepa.000\Documents\AirboxDemo\AirboxDemo.Domain\obj\Debug\netcoreapp2.1\AirboxDemo.Domain.dll
+C:\Users\joepa.000\Documents\AirboxDemo\AirboxDemo.Domain\obj\Debug\netcoreapp2.1\AirboxDemo.Domain.pdb
+C:\Users\joepa.000\Documents\AirboxDemo\AirboxDemo.Domain\obj\Debug\netcoreapp2.1\AirboxDemo.Domain.csproj.CoreCompileInputs.cache
