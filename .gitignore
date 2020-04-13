@@ -1,3 +1,5 @@
 bin/
+obj/
 /.vs/AirboxDemo/v16/TestStore/0/002.testlog
 /AirboxDemo.Api/.config/dotnet-tools.json
+*.suo
